@@ -1,3 +1,3 @@
 # hello-world
 Just another test
-of git!
+of git! and Git Desktop
